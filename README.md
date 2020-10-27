@@ -1,2 +1,2 @@
 # Quiz
-https://hetfadia.github.io/Quiz/
+https://hetfadia.github.io/MCQ/
